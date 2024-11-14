@@ -31,3 +31,6 @@ add_program(example_multiple
   src/example_multiple/main.cpp
   src/example_multiple/hello.cpp
 )
+add_program(class_learning
+  src/class_learning/class_learning.cpp
+)
